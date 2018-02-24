@@ -1,0 +1,24 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".gitignore.js",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmrenIng/Node-MySQL.git"
+  },
+  "author": "Emren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmrenIng/Node-MySQL/issues"
+  },
+  "homepage": "https://github.com/EmrenIng/Node-MySQL#readme"
+}
