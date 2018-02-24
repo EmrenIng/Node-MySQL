@@ -1,6 +1,6 @@
 # Node-MySQL
 [Demo Video](https://youtu.be/cEQhEAGH7dQ)
-Demo Video: https://youtu.be/cEQhEAGH7dQ
+
 # Instructions 
 1.Create a MySQL Database called bamazon.
 1.Then create a Table inside of that database called products.
